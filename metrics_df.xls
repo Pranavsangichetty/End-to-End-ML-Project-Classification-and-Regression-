@@ -1,0 +1,10 @@
+model,r2
+Linear Regression,0.875
+Ridge,0.875
+CatBoost,0.856
+Random Forest,0.838
+XGBRegressor,0.818
+AdaBoost,0.818
+Lasso,0.816
+KNN,0.765
+Decision Tree,0.676
