@@ -137,11 +137,17 @@ This plot is included in the project as:
 model_comparison.png
 
 🔹 Classification Metrics
+
 Metric	Score
+
 |Accuracy	|~0.85 – 0.93 (depending on model)|
+
 |Precision	|~0.81 – 0.92|
+
 |Recall	|~0.78 – 0.89|
+
 |F1-Score	|~0.80 – 0.90|
+
 |ROC-AUC	|~0.92 – 0.97|
 
 The classification task provides strong predictive performance and reliable business insights.
